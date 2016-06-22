@@ -25,6 +25,6 @@
 
 
 ###PlayRemote Video
-- #####使用AVPlayer自定义封装播放器
+- 使用AVPlayer自定义封装播放器
 	- 可以自定义UI, 进行控制
 	- 可以实现播放远程视频
