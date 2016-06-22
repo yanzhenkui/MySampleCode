@@ -2,8 +2,8 @@
 //  ZKShowBtnView.h
 //  scrollView九宫格封装
 //
-//  Created by 闫振奎 on 16/4/24.
-//  Copyright © 2016年 only. All rights reserved.
+//  Created by 闫振奎 on 14/8/24.
+//  Copyright © 2014年 only. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -2,8 +2,8 @@
 //  ZKNineLatticeViewController.m
 //  ZKScrollViewDemo
 //
-//  Created by 闫振奎 on 16/6/22.
-//  Copyright © 2016年 TowMen. All rights reserved.
+//  Created by 闫振奎 on 14/8/22.
+//  Copyright © 2014年 TowMen. All rights reserved.
 //
 
 #import "ZKNineLatticeViewController.h"
@@ -20,6 +20,7 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor whiteColor];
     self.automaticallyAdjustsScrollViewInsets = NO;
+
     
     // 1.创建
     ZKShowBtnView *showBtnV = [[ZKShowBtnView alloc]init];
