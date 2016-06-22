@@ -15,3 +15,16 @@
 ###ZKWaterflow
 - 使用UICollectionView实现瀑布流,展示商品图片
 
+
+
+
+###ZKCollectionViewDemo
+- 使用collectionView展示图片的简单使用示例
+
+
+
+
+###PlayRemote Video
+- #####使用AVPlayer自定义封装播放器
+	- 可以自定义UI, 进行控制
+	- 可以实现播放远程视频
