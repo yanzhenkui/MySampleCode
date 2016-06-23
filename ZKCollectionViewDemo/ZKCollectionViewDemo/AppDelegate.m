@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  ZKCollectionViewDemo
 //
-//  Created by 闫振奎 on 14/4/21.
-//  Copyright © 2014年 TowMen. All rights reserved.
+//  Created by 闫振奎 on 15/4/21.
+//  Copyright © 2015年 TowMen. All rights reserved.
 //
 
 #import "AppDelegate.h"
